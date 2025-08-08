@@ -1,7 +1,6 @@
-#💫 About me:
-I’m a Next.js and Full Stack Developer who loves building powerful, user-friendly web applications. I’m deeply passionate about both frontend design and backend architecture, bringing ideas to life with clean, efficient code.
-I am currently working on Croose :- https://www.joincroose.com/ and ordiio :- https://www.ordiio.com/
 
+# 💫 About Me:
+My name is Dhruv Khade <br>I’m a Next.js and Full Stack Developer who loves building powerful, user-friendly web applications. I’m deeply passionate about both frontend design and backend architecture, bringing ideas to life with clean, efficient code. I am currently working on Croose :- https://www.joincroose.com/ and ordiio :- https://www.ordiio.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruv-khade-26779b281/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enderdude786@gmail.com) 
@@ -16,4 +15,7 @@ I am currently working on Croose :- https://www.joincroose.com/ and ordiio :- ht
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
