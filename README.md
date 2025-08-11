@@ -1,5 +1,5 @@
-
-#  😎 Dhruv Khade
+<img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/e8c3cf6b-08db-4489-b46f-4810e275d478" />
+#  👨🏻‍💻 Dhruv Khade
 I’m a Next.js and Full Stack Developer who loves building powerful, user-friendly web applications. I’m deeply passionate about both frontend design and backend architecture, bringing ideas to life with clean, efficient code. I am currently working on Croose :- https://www.joincroose.com/ and ordiio :- https://www.ordiio.com/
 
 Currently working at IndoriCoders pvt ltd
